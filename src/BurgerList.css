@@ -1,0 +1,29 @@
+.menu-title {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.burgers-menu {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.burger-item {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    
+    
+}
+
+.burger-image {
+    width: 100%;
+    height: auto;
+}
+
+
+.burger-item p {
+    margin-top: 10px;
+    font-weight: bold;
+}

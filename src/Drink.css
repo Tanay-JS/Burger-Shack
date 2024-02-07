@@ -1,0 +1,23 @@
+.drinks-menu {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .drink-item {
+    width: 30%; /* Adjust the width as needed */
+    margin: 10px; /* Adjust the margin as needed */
+    text-align: center; /* Center align the content within each item */
+  }
+  
+  .drink-image {
+    width: 100%; 
+    height: auto; 
+  }
+  .menu-title {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 20px;
+    font-family: 'Dancing Script', cursive; /* Add a Google Font or a custom font of your choice */
+    color: black; 
+  }
+
